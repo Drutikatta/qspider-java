@@ -8,9 +8,10 @@ public class print5 {
     public static void test(int a) {
         System.out.println(a);
         a++;
-        if(a>5){
+        if(a==6){
             return;
         }
         test(a);
+//        System.out.println(a);
     }
 }
