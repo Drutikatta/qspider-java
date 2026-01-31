@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class sum_ofodd {
     public static void main(String[] args) {
+
+        //wajp to identify the sum of odd elements
+
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the size of an array");
         int size=s.nextInt();

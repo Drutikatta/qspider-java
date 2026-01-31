@@ -21,4 +21,3 @@ public class average_ofelements {
         System.out.println("the average is "+sum/arr.length);
     }
 }
-//wajp to identify the sum of odd elements
